@@ -1,0 +1,4 @@
+target/
+mnt/
+*.raw
+*.iso
